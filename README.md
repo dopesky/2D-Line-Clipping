@@ -2,3 +2,4 @@
 A project using openGL library to display Cohen Sutherland line clipping algorithm.
 #### NB: The OpenGL Library has not been included in the project.
 #### Here is a link to help you link openGL to a c++ project
+https://youtu.be/8p76pJsUP44
